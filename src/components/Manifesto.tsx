@@ -59,7 +59,7 @@ export default function Manifesto() {
             className="relative rounded-[3rem] overflow-hidden shadow-2xl border-4 border-red-600"
           >
             <img
-              src="public/qr.jpeg"
+              src="qr.jpeg"
               alt="Manifesto QR Code"
               className="w-full h-auto"
               referrerPolicy="no-referrer"

@@ -4,19 +4,19 @@ import { ChevronLeft, ChevronRight } from 'lucide-react';
 
 const images = [
   {
-    url: '/public/desh pahiley.jpg',
+    url: '/desh pahiley.jpg',
     caption: 'नयाँ सोच, नयाँ पाइला, नयाँ उचाइ'
   },
   {
-    url: '/public/blues.jpg',
+    url: '/blues.jpg',
     caption: 'एमाले अहिले, किनकि देश पहिले'
   },
   {
-    url: 'public/hi.jpg',
+    url: '/hi.jpg',
     caption: 'कास्की क्षेत्र नं. २ को आवाज'
   },
   {
-    url: 'public/hi.jpg',
+    url: '/hi.jpg',
     caption: 'रश्मि आचार्यका ७ आयामहरू'
   }
 ];
