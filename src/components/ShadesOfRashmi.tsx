@@ -19,7 +19,7 @@ export default function ShadesOfRashmi() {
           className="relative rounded-[4rem] overflow-hidden shadow-2xl border-8 border-white bg-white"
         >
           <img
-            src="public/shade.jpg"
+            src="/shade.jpg"
             alt="7 Shades of Rashmi Acharya"
             className="w-full h-auto object-cover"
             referrerPolicy="no-referrer"
