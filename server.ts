@@ -7,6 +7,8 @@ import path from 'path';
 import AdmZip from 'adm-zip';
 import fs from 'fs';
 
+
+
 const db = new Database('votes.db');
 db.exec('CREATE TABLE IF NOT EXISTS votes (id INTEGER PRIMARY KEY, count INTEGER)');
 const row = db.prepare('SELECT count FROM votes WHERE id = 1').get();
